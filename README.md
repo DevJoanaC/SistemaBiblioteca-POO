@@ -6,7 +6,7 @@ Este repositório contém um sistema simples de gestão de biblioteca desenvolvi
 
 - **Registro de Livros:** Permite o cadastro de novos livros com título, autor, ano de publicação e quantidade disponível.
   
-- **Registro de Usuários:** Usuários podem se cadastrar fornecendo nome, endereço e número de telefone.
+- **Registro de Utilizadores:** Usuários podem se cadastrar fornecendo nome, endereço e número de telefone.
   
 - **Empréstimo de Livros:** Usuários registrados podem pegar emprestado livros disponíveis por um período determinado.
   
